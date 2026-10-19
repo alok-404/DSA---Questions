@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alok-404/DSA---Questions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/alok-404/DSA---Questions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
