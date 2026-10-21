@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alok-404/DSA---Questions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/alok-404/DSA---Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/alok-404/DSA---Questions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -21,5 +22,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/alok-404/DSA---Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/alok-404/DSA---Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
