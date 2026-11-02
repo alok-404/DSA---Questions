@@ -29,6 +29,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alok-404/DSA---Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/alok-404/DSA---Questions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/alok-404/DSA---Questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/alok-404/DSA---Questions/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/alok-404/DSA---Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/alok-404/DSA---Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
