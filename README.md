@@ -32,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/alok-404/DSA---Questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/alok-404/DSA---Questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/alok-404/DSA---Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/alok-404/DSA---Questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -77,4 +78,5 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/alok-404/DSA---Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/alok-404/DSA---Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/alok-404/DSA---Questions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
