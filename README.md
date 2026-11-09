@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/alok-404/DSA---Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/alok-404/DSA---Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/alok-404/DSA---Questions/tree/master/0204-count-primes) |
+| [0415-add-strings](https://github.com/alok-404/DSA---Questions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/alok-404/DSA---Questions/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/alok-404/DSA---Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/alok-404/DSA---Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alok-404/DSA---Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/alok-404/DSA---Questions/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/alok-404/DSA---Questions/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/alok-404/DSA---Questions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
